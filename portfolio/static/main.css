@@ -1,5 +1,5 @@
 body {
-    background: #090909;
+    background-color: #c5b4b4;
 }
 
 .bg-black {
@@ -7,6 +7,6 @@ body {
 }
 
 .card-project:hover {
-    border:1px solid #fff;
+    border:2px solid rgb(216, 203, 203);
     cursor: pointer;
 }
